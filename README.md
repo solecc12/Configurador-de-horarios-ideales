@@ -1,5 +1,7 @@
 # Configurador-de-horarios-ideales     usuario:soledad contraseña:condori
 Examen final
+
+
 Calendar:  Refleja las secciones y elementos clave de tu código HTML, como la cabecera (header), el cuerpo principal con el calendario y los horarios, y el pie de página (footer). También incluye las secciones de los botones y de los horarios divididos en AM/PM.
 
 Index: muestra la estructura completa del documento HTML, con las siguientes secciones principales:
